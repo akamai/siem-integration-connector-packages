@@ -4,7 +4,7 @@ This is a repo for Akamai SIEM Integration connector packages, previously hosted
 For more information, please visit: https://techdocs.akamai.com/siem-integration/docs/akamai-siem-integration-for-splunk-and-cef-syslog#connectors-and-tools
 
 Akamai has signed the CEF Connected binary with a SHA256 hash.
-CEFConnector-1.7.10.1.zip should have a SHA256 hash of ea4fe71d550c419086ab52b816d62857e066ad5ce4020f4d98492cfc86e573d0
+CEFConnector-1.7.11.2.zip should have a SHA256 hash of 5fb1546266ada16321861d8a27d820114238cc326e5fd354ec3ed2797f603e1c
 
 To verify SHA-256 checksum, run the command:
 
